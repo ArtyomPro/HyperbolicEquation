@@ -7,15 +7,10 @@
  ####
  ## A posteriori evaluation
 #### Consider the net-point method by the following equation.
-![equation](http://www.imageup.ru/img143/2980320/snimok-1.jpg "equation") 
+![equation](https://github.com/ArtyomPro/HyperbolicEquation/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%201.JPG "equation") 
  #### Let us compare the explicit and implicit algorithm grid method, determine the a posteriori estimation of the optimal number of the mesh and compute the maximum error in the numerical method. 
  #### As time limit we take T=10.
  #### The results of the experiments are presented in table:
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
- 
 |Dimension (NxM)|	The maximum error of the implicit method|	Dimension (NxM)|The maximum error of the explicit method |
 | ------------- | ------------- | ------------- | ------------- |
 |10x10|	1,0907025|	10x100|	1.14394|
