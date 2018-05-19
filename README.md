@@ -11,6 +11,11 @@
  #### Let us compare the explicit and implicit algorithm grid method, determine the a posteriori estimation of the optimal number of the mesh and compute the maximum error in the numerical method. 
  #### As time limit we take T=10.
  #### The results of the experiments are presented in table:
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+ 
 |Dimension (NxM)|	The maximum error of the implicit method|	Dimension (NxM)|The maximum error of the explicit method |
 | ------------- | ------------- | ------------- |
 |10x10|	1,0907025|	10x100|	1.14394|
